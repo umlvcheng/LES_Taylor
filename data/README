@@ -1,0 +1,9 @@
+This directory contains the source code and input files required to recreate the simulations reported in Taylor, JPO, 2018. The directories are as follows:
+for: Fortran source code
+R0: input and grid files for case with M^2=3e-8, B0=0
+R0p1: input and grid files for case with M^2=3e-8, B0=-1.9e-10
+R1: input and grid files for case with M^2=3e-8, B0=-1.9e-9
+R10: input and grid files for case with M^2=3e-8, B0=-1.9e-8
+R0p1_nofront: input and grid files for case with M^2=0, B0=-1.9e-10
+R1_nofront: input and grid files for case with M^2=0, B0=-1.9e-9
+R10_nofront: input and grid files for case with M^2=0, B0=-1.9e-8
